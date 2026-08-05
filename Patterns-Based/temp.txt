@@ -1,0 +1,21 @@
+# String Specific ques
+
+# two pointer
+# sliding window -- fixed size,  variable size
+
+# kaden's algo
+
+# fast and slow pointer
+# prefix sum
+# monotonic stack
+
+
+------------------------------------------------------------------
+
+IMPLEMENTATION :
+
+1) Linked lists
+2) Stack (using: linked lists)
+3) Queues (using: linked lists,using two stacks..etc)
+
+4) Binary Search Tree 
