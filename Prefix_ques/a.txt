@@ -1,0 +1,4 @@
+# here special case for range(0,l) then prefix[l] - 0
+
+
+# prefix formula = sum(st, j)-> for range  = prefix[j] - prefix[st - 1]
