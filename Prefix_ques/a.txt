@@ -2,3 +2,12 @@
 
 
 # prefix formula = sum(st, j)-> for range  = prefix[j] - prefix[st - 1]
+
+Time Complexity: 
+
+building Prefix -> O(n)
+Each range query -> O(1)
+Space Complexity -> O(n)
+
+
+IMP:  "Prefix Sum trades O(n) preprocessing for O(1) range queries."
